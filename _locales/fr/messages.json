@@ -1,10 +1,10 @@
 {
   "extensionName": {
-    "message": "GitHub-Tab",
+    "message": "Onglet GitHub",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Fügt eine Schaltfläche hinzu, um GitHub in einem neuen Tab zu öffnen.",
+    "message": "Ajoute un bouton pour ouvrir GitHub dans un nouvel onglet.",
     "description": "Description of the extension."
   },
   "toolbarButtonTitle": {

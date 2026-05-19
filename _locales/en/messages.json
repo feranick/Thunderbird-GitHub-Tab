@@ -1,6 +1,14 @@
 {
+  "extensionName": {
+    "message": "GitHub Tab",
+    "description": "Name of the extension."
+  },
   "extensionDescription": {
     "message": "Adds a button to open GitHub in a new tab.",
     "description": "Description of the extension."
+  },
+  "toolbarButtonTitle": {
+    "message": "GitHub",
+    "description": "Hover title for the Spaces Toolbar button."
   }
 }

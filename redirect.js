@@ -1,5 +1,5 @@
 browser.spacesToolbar.addButton('GitHub', {
-    title: "GitHUb",
+    title: browser.i18n.getMessage("toolbarButtonTitle"),
     defaultIcons: "skin/github_icon.svg",
     url: "https://github.com/"
 });
